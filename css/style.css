@@ -128,11 +128,7 @@ img{
     position: absolute;
     bottom: -10px;
 }
-.about-desc{
-    font-size: 18px;
-    line-height: 22px;
-    margin: 35px 0 64px;
-}
+
 .mission, .skills, .client{
     font-weight: 400;
     font-size: 18px;
